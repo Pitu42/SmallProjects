@@ -1,3 +1,6 @@
+# Kaggle challenge: https://www.kaggle.com/competitions/playground-series-s4e10
+# Kaggle score: 0.94357
+
 # Gradient boost
 import catboost as cb
 from catboost import CatBoostRegressor, Pool, EShapCalcType, EFeaturesSelectionAlgorithm, CatBoostClassifier
